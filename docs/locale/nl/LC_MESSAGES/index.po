@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Collin J. Delker
+# This file is distributed under the same license as the Schemdraw package.
+# FIRST AUTHOR <sennevandenberghe2002@gmail.com>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Schemdraw \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-09 10:20+0200\n"
+"PO-Revision-Date: 2025-06-09 10:20+0200\n"
+"Last-Translator: Senne Vanden Berghe <sennevandenberghe2002@gmail.com>\n"
+"Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../index.rst:35
+msgid "Contents:"
+msgstr "Inhoud:"
+
+#: ../../index.rst:2
+msgid "Schemdraw documentation"
+msgstr "Schemdraw documentatie"
+
+#: ../../index.rst:10
+msgid ""
+"Schemdraw is a Python package for producing high-quality electrical "
+"circuit schematic diagrams. Circuit elements are added, one at a time, "
+"similar to how you might draw them by hand, using Python methods."
+msgstr ""
+"Schemdraw is een Python package voor het produceren van kwaliteitsvolle "
+"elektrische schemas en diagrammen. Circuit elementen worden één per één toegevoegd, "
+"zoals je ze tekent met de hand, gebruik makend van Python methods."
+
+#: ../../index.rst:13
+msgid "For example,"
+msgstr "Bijvoorbeeld:"
+
+#: ../../index.rst:20
+msgid ""
+"creates a new schemdraw drawing with a resistor going to the right with a"
+" label of \"1Ω\". The next element added to the drawing will start at the"
+" endpoint of the resistor."
+msgstr ""
+"maakt een nieuwe schemdraw-tekening met een weerstand naar rechts met het"
+" label \"1Ω\". Het volgende element dat aan de tekening wordt toegevoegd,"
+" begint aan het uiteinde van de weerstand."
+
+#: ../../index.rst:51
+msgid ""
+"Want to support Schemdraw development? Need more circuit examples? Pick "
+"up the Schemdraw Examples Pack on buymeacoffee.com:"
+msgstr ""
+"Wilt u de ontwikkeling van Schemdraw steunen? Meer voorbeelden van schakelingen nodig? "
+"Koop het Schemdraw voorbeeldenpakket op buymeacoffee.com:"
+

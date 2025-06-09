@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Collin J. Delker
+# This file is distributed under the same license as the Schemdraw package.
+# Senne Vanden Berghe <sennevandenberghe2002@gmail.com>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Schemdraw \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-09 10:20+0200\n"
+"PO-Revision-Date: 2025-06-09 10:20+0200\n"
+"Last-Translator: Senne Vanden Berghe <sennevandenberghe2002@gmail.com>\n"
+"Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../contributing.rst:2
+msgid "Development"
+msgstr "Ontwikkeling"
+
+#: ../../contributing.rst:4
+msgid ""
+"Report bugs and feature requests on the `Issue Tracker "
+"<https://github.com/cdelker/schemdraw/issues>`_."
+msgstr ""
+"Meld *bugs* en *feature requests* op de `Issue Tracker "
+"<https://github.com/cdelker/schemdraw/issues>`_."
+
+#: ../../contributing.rst:6
+msgid ""
+"Code contributions are welcome, especially with new circuit elements (and"
+" we'd be happy to expand beyond electrical elements too). To contribute "
+"code, please fork the `source code repository "
+"<https://github.com/cdelker/schemdraw/>`_ and issue a pull request. Make "
+"sure to include any new elements somewhere in the test Jupyter notebooks "
+"and in the documentation."
+msgstr ""
+"Codebijdragen zijn welkom, vooral met nieuwe circuit elementen (en we breiden graag uit naar meer dan alleen elektrische elementen). "
+"Om code bij te dragen, fork de `source code repository "
+"<https://github.com/cdelker/schemdraw/>`_ en maak een pull request aan. "
+"Zorg ervoor dat je nieuwe elementen toevoegt aan de test Jupyter-notebooks en in de documentatie."
+
+#: ../../contributing.rst:8
+msgid "`Source Code <https://github.com/cdelker/schemdraw>`_"
+msgstr "`Broncode <https://github.com/cdelker/schemdraw>`_"
+
+#: ../../contributing.rst:15
+msgid ""
+"Want to support Schemdraw development? Need more circuit examples? Pick "
+"up the Schemdraw Examples Pack on buymeacoffee.com:"
+msgstr ""
+"Wil je de ontwikkeling van Schemdraw steunen? Meer schakelingvoorbeelden nodig? "
+"Koop het Schemdraw Examples Pack op buymeacoffee.com:"
+
